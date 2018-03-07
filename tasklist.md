@@ -1,11 +1,11 @@
 # Cheatsheet task list in Markdown
 
-- [ ] hello world
-- [ ] mathematical operators (7)
+- [x] hello world
+- [x] mathematical operators (7)
 - [ ] function without return (just prints)
 - [ ] function that returns a string
 - [ ] function that takes a parameter
-- [ ] boolean operators (6)
+- [x] boolean operators (6)
 - [ ] if, else, elif
 - [ ] while
 - [ ] nested while loop
